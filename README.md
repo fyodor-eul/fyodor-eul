@@ -1,5 +1,3 @@
-### Hi, I'm Thiha Htoo Zin (Fyodor)!
-
 `Linux System | Networking | Low-level Programming`
 
 ### About Me:
