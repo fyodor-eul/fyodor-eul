@@ -1,9 +1,7 @@
 `Linux System | Networking | Low-level Programming`
 
 ### About Me:
-I am a linux enthusiast.
-<br>
-I'm currently working on [unresolved](https://github.com/thihahtoozin/unresolved)
+I am a Linux enthusiast.
 <br>
 📚 I am currently learning
 - System Programming in C
